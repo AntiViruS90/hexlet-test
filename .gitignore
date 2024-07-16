@@ -1,0 +1,4 @@
+.idea/
+__pycache__
+capitalize/__pycache__/
+test_capitalize/__pycache__/
